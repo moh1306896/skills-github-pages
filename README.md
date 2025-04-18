@@ -1,3 +1,7 @@
+title: Website LaundryKu
+author: Moh
+description: Layanan antar jemput laundry cepat dan bersih!
+theme: minima
 <header>
 
 <!--
